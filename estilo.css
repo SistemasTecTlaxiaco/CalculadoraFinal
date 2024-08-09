@@ -32,3 +32,7 @@
   border-radius: 25px;
   overflow-y: scroll;
 }
+#siete {
+  background-color: red;
+  color: white; /* Cambia el texto a blanco para mejor legibilidad */
+}
