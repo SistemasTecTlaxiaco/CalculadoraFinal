@@ -32,6 +32,10 @@
   border-radius: 25px;
   overflow-y: scroll;
 }
+#nueve {
+    background-color: yellow;
+    color: white;
+}
 #siete {
   background-color: red;
   color: white; /* Cambia el texto a blanco para mejor legibilidad */
@@ -42,3 +46,7 @@
   color: white; /* Cambia el texto a blanco para mejor legibilidad */
 }
 
+#ocho {
+  background-color: green;
+  color: white; /* Cambia el texto a blanco para mejor legibilidad */
+}
